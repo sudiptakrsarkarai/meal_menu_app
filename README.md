@@ -1,4 +1,4 @@
-Meal Menu App
+<h1>Meal Menu App</h1>
 <div align="center">
   <h2>Delicious Meals</h2>
   <img src="meal_menu_logo.png" alt="Meal Menu Logo" width="200">
